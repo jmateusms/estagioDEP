@@ -33,7 +33,7 @@ Sim, a empresa ou o Agente de Integração deve estar conveniado com a UFPE. Voc
 ### 5. O estágio pode ser iniciado com data retroativa?
 Não, a documentação não será assinada para autorizar o início de um estágio com data retroativa.
 
-### 6. Os documentos precisam ser assinados físicamente?
+### 6. Os documentos precisam ser assinados fisicamente?
 Não. A documentação pode ser assinada por meio digital, utilizando o [assinador do gov.br](https://assinador.iti.br/), ou alguma plataforma de assinatura.
 
 ### 7. Quem deve assinar a documentação?
