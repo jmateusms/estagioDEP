@@ -7,8 +7,8 @@
 
 **Observações sobre os formulários de avaliação:**
 - Utilize o Adobe Acrobat Reader ou LibreOffice Draw para preencher os formulários (ambos softwares gratuitos).
-- Onde consta "coordenador do estágio", na verdade se trata do supervisor do estágio.
-- Onde consta "professor supervisor", trata-se do professor orientador.
+- Onde consta "coordenador do estágio", na verdade se trata do supervisor do estágio (ver [item 8](#8-quem-são-o-supervisor-e-o-orientador-do-estágio) do FAQ).
+- Onde consta "professor supervisor", trata-se do professor orientador (ver [item 8](#8-quem-são-o-supervisor-e-o-orientador-do-estágio) do FAQ).
 
 Modelos de termos de compromisso, aditivos, entre outros, podem ser encontrados no site da PROGRAD (formação para o trabalho), ver [abaixo](#links-úteis).
 
