@@ -48,7 +48,7 @@ Sim, a empresa ou o Agente de Integração deve estar conveniado com a UFPE. Voc
 ### 4. Quais são os documentos necessários para autorização do estágio?
 - Termo de Compromisso de Estágio modelo UFPE (disponível no [site da PROGRAD](https://www.ufpe.br/prograd/formacao-para-o-trabalho)) ou do Agente de Integração.
 - Plano de atividades no modelo do DEP (**disponível [neste repositório](#modelos-de-documentos)**).
-- Comprovação de formação do supervisor (cópia do diploma ou certificado) ou ofício da empresa com informações sobre o supervisor de estágio (ver [item 7](#7-quais-s%C3%A3o-os-requisitos-para-o-supervisor-de-est%C3%A1gio)).
+- Comprovação de formação do supervisor (cópia do diploma ou certificado) ou ofício da empresa com informações sobre o supervisor de estágio (ver [item 8](#8-quem-são-o-supervisor-e-o-orientador-do-estágio)).
 
 ### 5. O estágio pode ser iniciado com data retroativa?
 Não, a documentação não será assinada para autorizar o início de um estágio com data retroativa.
@@ -70,13 +70,18 @@ Lembre-se de que o supervisor e o orientador têm papéis distintos no estágio,
 - Devem ser enviados relatórios parciais a cada 6 meses e um relatório final para finalizar o estágio, **tanto para estágio obrigatório quanto não obrigatório**.
 - Especificamente no caso de estágio obrigatório, também deve ser enviado um relatório como parte da entrega da disciplina de estágio obrigatório.
 
-### 10. Como posso finalizar o estágio obrigatório?
+### 10. O que devo fazer para iniciar um estágio obrigatório?
+Além da documentação necessária (ver [item 4](#4-quais-são-os-documentos-necessários-para-autorização-do-estágio)), o aluno deve realizar matrícula na disciplina de estágio obrigatório. A matrícula nessa disciplina pode ser feita a qualquer momento, solicitada à secretaria do curso.
+
+Uma vez matriculado e com toda a documentação assinada, o aluno começa a contabilizar a carga horária da disciplina. Caso não seja possível cumprir a carga horária de 270h ou entregar o relatório de finalização da disciplina no semestre em que realizou a matrícula, o aluno tem direito a renovar a disciplina de estágio uma (e somente uma) vez. Essa renovação deve ser realizada durante o período de modificação de matrícula, através de solicitação à secretaria do curso.
+
+### 11. Como finalizar o estágio obrigatório?
 Para finalizar o estágio obrigatório e receber a nota da disciplina de estágio, você precisa enviar três itens:
 - Relatório
 - [Formulários de avaliação](#modelos-de-documentos) preenchidos pelo aluno, pelo supervisor e pelo professor orientador.
 - Comprovação de cumprimento da carga horária, caso não tenha concluído o estágio.
 
-### 11. Qual é a data limite para envio do relatório da disciplina de estágio obrigatório?
+### 12. Qual é a data limite para envio do relatório da disciplina de estágio obrigatório?
 A data limite de envio do relatório e dos formulários assinados é até cinco (5) dias úteis antes da data limite de inserção das notas, indicada no [Calendário Acadêmico](https://www.ufpe.br/prograd/calendario-academico). A data limite de inserção de notas não é informada no calendário acadêmico.
 
 ### 12. Já tenho emprego. Posso dispensar a disciplina de estágio obrigatório?
@@ -91,6 +96,6 @@ correspondente ato de nomeação, quando o aluno for servidor público"
 - "Cópia do Contrato Social da empresa, devidamente registrado na Junta Comercial, comprovando as
 atividades em áreas correlatas à sua habilitação, quando o aluno for sócio-administrador"
 
-Dessa forma, o estudante funcionário deve entregar o item que se aplica ao seu caso. Além disso, também deve ser enviado o plano de atividades (conforme [item 4](#1-quais-s%C3%A3o-os-requisitos-para-iniciar-um-est%C3%A1gio-n%C3%A3o-obrigat%C3%B3rio)).
+Dessa forma, o estudante funcionário deve entregar o item que se aplica ao seu caso. Além disso, também deve ser enviado o plano de atividades (conforme [item 4](#4-quais-são-os-documentos-necessários-para-autorização-do-estágio)).
 
 Quanto aos relatórios, os requisitos são os mesmos para o estágio obrigatório como estagiário, com a exceção de que não há avaliação pelo supervisor (uma vez que não há supervisor neste caso).
