@@ -2,35 +2,45 @@
 
 ## FAQ - Estágio de Engenharia de Produção na UFPE
 
-### 1. Quais são os requisitos para iniciar um estágio não obrigatório?
+- [1. Quais são os requisitos para iniciar um estágio não obrigatório?](#1-quais-s%C3%A3o-os-requisitos-para-iniciar-um-est%C3%A1gio-n%C3%A3o-obrigat%C3%B3rio)
+- [2. E para iniciar um estágio obrigatório?](#2-e-para-iniciar-um-est%C3%A1gio-obrigat%C3%B3rio)
+- [3. A empresa ou o Agente de Integração precisa estar conveniado com a UFPE?](#3-a-empresa-ou-o-agente-de-integra%C3%A7%C3%A3o-precisa-estar-conveniado-com-a-ufpe)
+- [4. Quais são os documentos necessários para autorização do estágio?](#4-quais-s%C3%A3o-os-documentos-necess%C3%A1rios-para-autoriza%C3%A7%C3%A3o-do-est%C3%A1gio)
+- [5. O estágio pode ser iniciado com data retroativa?](#5-o-est%C3%A1gio-pode-ser-iniciado-com-data-retroativa)
+- [6. Quais são os requisitos para o supervisor de estágio?](#6-quais-s%C3%A3o-os-requisitos-para-o-supervisor-de-est%C3%A1gio)
+- [7. Como deve ser feito o envio dos relatórios durante o estágio?](#7-como-deve-ser-feito-o-envio-dos-relat%C3%B3rios-durante-o-est%C3%A1gio)
+- [8. Como posso finalizar o estágio obrigatório?](#8-como-posso-finalizar-o-est%C3%A1gio-obrigat%C3%B3rio)
+- [9. Qual é a data limite para envio do relatório da disciplina de estágio obrigatório?](#9-qual-%C3%A9-a-data-limite-para-envio-do-relat%C3%B3rio-da-disciplina-de-est%C3%A1gio-obrigat%C3%B3rio)
+
+## 1. Quais são os requisitos para iniciar um estágio não obrigatório?
 Para um estágio não obrigatório, você precisa ter aprovação na disciplina Processos Industriais 2 e ter integralizado uma carga horária total de 2080 horas.
 
-### 2. E para iniciar um estágio obrigatório?
+## 2. E para iniciar um estágio obrigatório?
 Para um estágio obrigatório, é necessário ter aprovação na disciplina Processos Industriais 4 e ter integralizado uma carga horária total de 2940 horas.
 
-### 3. A empresa ou o Agente de Integração precisa estar conveniado com a UFPE?
+## 3. A empresa ou o Agente de Integração precisa estar conveniado com a UFPE?
 Sim, a empresa ou o Agente de Integração deve estar conveniado com a UFPE. Você pode encontrar orientações sobre como firmar o convênio no [site da PROGRAD](https://www.ufpe.br/prograd/formacao-para-o-trabalho).
 
-### 4. Quais são os documentos necessários para autorização do estágio?
+## 4. Quais são os documentos necessários para autorização do estágio?
 - Termo de Compromisso de Estágio modelo UFPE (disponível no [site da PROGRAD](https://www.ufpe.br/prograd/formacao-para-o-trabalho)) ou do Agente de Integração.
 - Plano de atividades no modelo do DEP (disponível neste repositório).
 - Comprovação de formação do supervisor (cópia do diploma ou certificado) ou ofício da empresa com informações sobre o supervisor de estágio (ver [item 6](#6-quais-s%C3%A3o-os-requisitos-para-o-supervisor-de-est%C3%A1gio)).
 
-### 5. O estágio pode ser iniciado com data retroativa?
+## 5. O estágio pode ser iniciado com data retroativa?
 Não, a documentação não será assinada para autorizar o início de um estágio com data retroativa.
 
-### 6. Quais são os requisitos para o supervisor de estágio?
+## 6. Quais são os requisitos para o supervisor de estágio?
 O supervisor deve possuir alguma formação em Engenharia de Produção (graduação, mestrado, doutorado, MBA etc). Caso não tenha essa formação, é possível justificar sua atuação na área, desde que comprovada por uma comunicação oficial da empresa (ofício, declaração etc).
 
-### 7. Como deve ser feito o envio dos relatórios durante o estágio?
+## 7. Como deve ser feito o envio dos relatórios durante o estágio?
 Devem ser enviados relatórios parciais a cada 6 meses e um relatório final para finalizar o estágio, **tanto para estágio obrigatório quanto não obrigatório**.
 Especificamente no caso de estágio obrigatório, também deve ser enviado um relatório como parte da entrega da disciplina de estágio obrigatório.
 
-### 8. Como posso finalizar o estágio obrigatório?
+## 8. Como posso finalizar o estágio obrigatório?
 Para finalizar o estágio obrigatório e receber a nota da disciplina de estágio, você precisa enviar três itens:
 - Relatório
 - Formulários de avaliação preenchido pelo(a) aluno(a), pelo(a) supervisor(a) e pelo(a) professor(a) orientador(a).
 - Comprovação de cumprimento da carga horária, caso não tenha concluído o estágio.
 
-### 9. Qual é a data limite para envio do relatório da disciplina de estágio obrigatório?
+## 9. Qual é a data limite para envio do relatório da disciplina de estágio obrigatório?
 A data limite de envio do relatório e dos formulários assinados é até cinco (5) dias úteis antes da data limite de inserção das notas, indicada no [Calendário Acadêmico](https://www.ufpe.br/prograd/calendario-academico). A data limite de inserção de notas não é informada no calendário acadêmico.
