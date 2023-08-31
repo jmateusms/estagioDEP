@@ -85,10 +85,10 @@ Para finalizar o estágio obrigatório e receber a nota da disciplina de estági
 ### 12. Qual é a data limite para envio do relatório da disciplina de estágio obrigatório?
 A data limite de envio do relatório e dos formulários assinados é até cinco (5) dias úteis antes da data limite de inserção das notas, indicada no [Calendário Acadêmico](https://www.ufpe.br/prograd/calendario-academico). A data limite de inserção de notas não é informada no calendário acadêmico.
 
-### 12. Já tenho emprego. Posso dispensar a disciplina de estágio obrigatório?
+### 13. Já tenho emprego. Posso dispensar a disciplina de estágio obrigatório?
 Não. Nesse caso, a disciplina não é dispensada. O seu emprego pode ser utilizado para cumprir a disciplina, na condição de estudante funcionário (conforme resolução de estágio da UFPE). É um processo um pouco mais simples, uma vez que não há um supervisor de estágio.
 
-### 13. Qual é a documentação necessária para inscrição na disciplina de estágio como estudante funcionário?
+### 14. Qual é a documentação necessária para inscrição na disciplina de estágio como estudante funcionário?
 De acordo com a Resolução No. 20/2015 do CCEPE (na versão vigente na data de atualização deste FAQ):
 - "Declaração da empresa na qual conste o detalhamento da atividade exercida e cópia do correspondente
 registro na Carteira Profissional, **quando o aluno for empregado de empresa privada**"
