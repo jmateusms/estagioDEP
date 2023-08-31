@@ -1,5 +1,15 @@
 # Orientações sobre estágio - DEP-UFPE
 
+## Modelos de documentos
+
+- [Plano de Atividades - DEP](https://github.com/jmateusms/estagioDEP/files/12489916/PlanodeAtividadesdeEstagio.docx)
+- [Formulários de avaliação](https://github.com/jmateusms/estagioDEP/files/12489915/FormulariosdeAvaliacao.pdf)
+
+**Observações sobre os formulários de avaliação:**
+- Utilize o Adobe Acrobat Reader ou LibreOffice Draw para preencher os formulários (ambos softwares gratuitos).
+- Onde consta "coordenador do estágio", na verdade se trata do supervisor do estágio.
+- Onde consta "professor supervisor", trata-se do professor orientador.
+
 ## FAQ - Estágio de Engenharia de Produção na UFPE
 
 1. [Quais são os requisitos para iniciar um estágio não obrigatório?](#1-quais-são-os-requisitos-para-iniciar-um-estágio-não-obrigatório)
