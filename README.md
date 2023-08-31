@@ -10,6 +10,16 @@
 - Onde consta "coordenador do estágio", na verdade se trata do supervisor do estágio.
 - Onde consta "professor supervisor", trata-se do professor orientador.
 
+Modelos de termos de compromisso, aditivos, entre outros, podem ser encontrados no site da PROGRAD (formação para o trabalho), ver [abaixo](#links-úteis).
+
+## Links úteis
+
+- E-mail para contato: [estagio.ep@ufpe.br](mailto:estagio.ep@ufpe.br)
+- [Agendamento de atendimentos](https://calendar.google.com/calendar/appointments/schedules/AcZssZ1ga4tQOehoSaer0v5SVDWnwtGQqVKVJLnQF5jQ0vlbV5dxmXl0x6CmE-0sFC1dUD-7djlyuEPI)
+- [PROGRAD - Formação para o trabalho](https://www.ufpe.br/prograd/formacao-para-o-trabalho) - informações gerais sobre o estágio, além de legislação vigente e modelos de documentos (com exceção dos modelos disponíveis acima).
+- [Calendário Acadêmico](https://www.ufpe.br/prograd/calendario-academico)
+- [Assinador de documentos do gov.br](https://assinador.iti.br/)
+
 ## FAQ - Estágio de Engenharia de Produção na UFPE
 
 1. [Quais são os requisitos para iniciar um estágio não obrigatório?](#1-quais-são-os-requisitos-para-iniciar-um-estágio-não-obrigatório)
@@ -37,7 +47,7 @@ Sim, a empresa ou o Agente de Integração deve estar conveniado com a UFPE. Voc
 
 ### 4. Quais são os documentos necessários para autorização do estágio?
 - Termo de Compromisso de Estágio modelo UFPE (disponível no [site da PROGRAD](https://www.ufpe.br/prograd/formacao-para-o-trabalho)) ou do Agente de Integração.
-- Plano de atividades no modelo do DEP (**disponível neste repositório**).
+- Plano de atividades no modelo do DEP (**disponível [neste repositório](#modelos-de-documentos)**).
 - Comprovação de formação do supervisor (cópia do diploma ou certificado) ou ofício da empresa com informações sobre o supervisor de estágio (ver [item 7](#7-quais-s%C3%A3o-os-requisitos-para-o-supervisor-de-est%C3%A1gio)).
 
 ### 5. O estágio pode ser iniciado com data retroativa?
@@ -57,13 +67,13 @@ O orientador do estágio é um professor da Universidade Federal de Pernambuco (
 Lembre-se de que o supervisor e o orientador têm papéis distintos no estágio, sendo o supervisor responsável pela orientação dentro da empresa e o orientador responsável pela orientação acadêmica e avaliação do estágio perante a universidade.
 
 ### 9. Como deve ser feito o envio dos relatórios durante o estágio?
-Devem ser enviados relatórios parciais a cada 6 meses e um relatório final para finalizar o estágio, **tanto para estágio obrigatório quanto não obrigatório**.
-Especificamente no caso de estágio obrigatório, também deve ser enviado um relatório como parte da entrega da disciplina de estágio obrigatório.
+- Devem ser enviados relatórios parciais a cada 6 meses e um relatório final para finalizar o estágio, **tanto para estágio obrigatório quanto não obrigatório**.
+- Especificamente no caso de estágio obrigatório, também deve ser enviado um relatório como parte da entrega da disciplina de estágio obrigatório.
 
 ### 10. Como posso finalizar o estágio obrigatório?
 Para finalizar o estágio obrigatório e receber a nota da disciplina de estágio, você precisa enviar três itens:
 - Relatório
-- Formulários de avaliação preenchido pelo(a) aluno(a), pelo(a) supervisor(a) e pelo(a) professor(a) orientador(a).
+- [Formulários de avaliação](#modelos-de-documentos) preenchidos pelo aluno, pelo supervisor e pelo professor orientador.
 - Comprovação de cumprimento da carga horária, caso não tenha concluído o estágio.
 
 ### 11. Qual é a data limite para envio do relatório da disciplina de estágio obrigatório?
