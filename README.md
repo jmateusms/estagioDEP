@@ -31,10 +31,11 @@ Modelos de termos de compromisso, aditivos, entre outros, podem ser encontrados 
 7. [Quem deve assinar a documentação?](#7-quem-deve-assinar-a-documentação)
 8. [Quem são o supervisor e o orientador do estágio?](#8-quem-são-o-supervisor-e-o-orientador-do-estágio)
 9. [Como deve ser feito o envio dos relatórios durante o estágio?](#9-como-deve-ser-feito-o-envio-dos-relatórios-durante-o-estágio)
-10. [Como posso finalizar o estágio obrigatório?](#10-como-posso-finalizar-o-estágio-obrigatório)
-11. [Qual é a data limite para envio do relatório da disciplina de estágio obrigatório?](#11-qual-é-a-data-limite-para-envio-do-relatório-da-disciplina-de-estágio-obrigatório)
-12. [Já tenho emprego. Posso dispensar a disciplina de estágio obrigatório?](#12-já-tenho-emprego-posso-dispensar-a-disciplina-de-estágio-obrigatório)
-13. [Qual é a documentação necessária para inscrição na disciplina de estágio como estudante funcionário?](#13-qual-é-a-documentação-necessária-para-inscrição-na-disciplina-de-estágio-como-estudante-funcionário)
+10. [O que devo fazer para iniciar um estágio obrigatório?](#10-o-que-devo-fazer-para-iniciar-um-estágio-obrigatório?)
+11. [Como finalizar o estágio obrigatório?](#11-como-finalizar-o-estágio-obrigatório)
+12. [Qual é a data limite para envio do relatório da disciplina de estágio obrigatório?](#12-qual-é-a-data-limite-para-envio-do-relatório-da-disciplina-de-estágio-obrigatório)
+13. [Já tenho emprego. Posso dispensar a disciplina de estágio obrigatório?](#13-já-tenho-emprego-posso-dispensar-a-disciplina-de-estágio-obrigatório)
+14. [Qual é a documentação necessária para inscrição na disciplina de estágio como estudante funcionário?](#14-qual-é-a-documentação-necessária-para-inscrição-na-disciplina-de-estágio-como-estudante-funcionário)
 
 ### 1. Quais são os requisitos para iniciar um estágio não obrigatório?
 Para um estágio não obrigatório, você precisa ter aprovação na disciplina Processos Industriais 2 e ter integralizado uma carga horária total de 2080 horas.
