@@ -7,15 +7,15 @@
 
 **Observações sobre os formulários de avaliação:**
 - Utilize o Adobe Acrobat Reader ou LibreOffice Draw para preencher os formulários (ambos softwares gratuitos).
-- Onde consta "coordenador do estágio", na verdade se trata do supervisor do estágio (ver [item 8](#8-quem-são-o-supervisor-e-o-orientador-do-estágio) do FAQ).
-- Onde consta "professor supervisor", trata-se do professor orientador (ver [item 8](#8-quem-são-o-supervisor-e-o-orientador-do-estágio) do FAQ).
+- Onde consta "coordenador do estágio", na verdade se trata do supervisor do estágio (ver [item 8](#8-quem-são-o-supervisor-e-o-orientador-do-estágio) do [FAQ](#faq---estágio-de-engenharia-de-produção-na-ufpe)).
+- Onde consta "professor supervisor", trata-se do professor orientador (ver [item 8](#8-quem-são-o-supervisor-e-o-orientador-do-estágio) do [FAQ](#faq---estágio-de-engenharia-de-produção-na-ufpe)).
 
 Modelos de termos de compromisso, aditivos, entre outros, podem ser encontrados no site da PROGRAD (formação para o trabalho), ver [abaixo](#links-úteis).
 
 ## Links úteis
 
 - E-mail para contato: [estagio.ep@ufpe.br](mailto:estagio.ep@ufpe.br)
-- [Agendamento de atendimentos](https://calendar.google.com/calendar/appointments/schedules/AcZssZ1ga4tQOehoSaer0v5SVDWnwtGQqVKVJLnQF5jQ0vlbV5dxmXl0x6CmE-0sFC1dUD-7djlyuEPI)
+- [Agendamento de atendimentos](https://calendar.google.com/calendar/appointments/schedules/AcZssZ1ga4tQOehoSaer0v5SVDWnwtGQqVKVJLnQF5jQ0vlbV5dxmXl0x6CmE-0sFC1dUD-7djlyuEPI) - antes de realizar o agendamento, tire todas as dúvidas que você tenha que possam ser respondidas pelo [FAQ](#faq---estágio-de-engenharia-de-produção-na-ufpe).
 - [PROGRAD - Formação para o trabalho](https://www.ufpe.br/prograd/formacao-para-o-trabalho) - informações gerais sobre o estágio, além de legislação vigente e modelos de documentos (com exceção dos modelos disponíveis acima).
 - [Calendário Acadêmico](https://www.ufpe.br/prograd/calendario-academico)
 - [Assinador de documentos do gov.br](https://assinador.iti.br/)
