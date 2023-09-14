@@ -14,6 +14,8 @@ Modelos de termos de compromisso, aditivos, entre outros, podem ser encontrados 
 
 ## Links úteis
 
+**Atenção! Tire suas dúvidas no [FAQ](#faq---estágio-de-engenharia-de-produção-na-ufpe) antes de entrar em contato por e-mail ou agendar um atendimento!**
+
 - E-mail para contato: [estagio.ep@ufpe.br](mailto:estagio.ep@ufpe.br)
 - [Agendamento de atendimentos](https://calendar.google.com/calendar/appointments/schedules/AcZssZ1ga4tQOehoSaer0v5SVDWnwtGQqVKVJLnQF5jQ0vlbV5dxmXl0x6CmE-0sFC1dUD-7djlyuEPI) - antes de realizar o agendamento, tire todas as dúvidas que você tenha que possam ser respondidas pelo [FAQ](#faq---estágio-de-engenharia-de-produção-na-ufpe).
 - [PROGRAD - Formação para o trabalho](https://www.ufpe.br/prograd/formacao-para-o-trabalho) - informações gerais sobre o estágio, além de legislação vigente e modelos de documentos (com exceção dos modelos disponíveis acima).
