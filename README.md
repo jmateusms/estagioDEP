@@ -14,11 +14,10 @@ Modelos de termos de compromisso, aditivos, entre outros, podem ser encontrados 
 
 ## Links úteis
 
-**Atenção! Tire suas dúvidas no [FAQ](#faq---estágio-de-engenharia-de-produção-na-ufpe) antes de entrar em contato por e-mail ou agendar um atendimento!**
+**Atenção! Tire suas dúvidas no [FAQ](#faq---estágio-de-engenharia-de-produção-na-ufpe) antes de entrar em contato por e-mail!**
 
 - E-mail para contato: [estagio.ep@ufpe.br](mailto:estagio.ep@ufpe.br)
-- [Agendamento de atendimentos](https://calendar.google.com/calendar/appointments/schedules/AcZssZ1ga4tQOehoSaer0v5SVDWnwtGQqVKVJLnQF5jQ0vlbV5dxmXl0x6CmE-0sFC1dUD-7djlyuEPI) - antes de realizar o agendamento, tire todas as dúvidas que você tenha que possam ser respondidas pelo [FAQ](#faq---estágio-de-engenharia-de-produção-na-ufpe).
-- [PROGRAD - Formação para o trabalho](https://www.ufpe.br/prograd/formacao-para-o-trabalho) - informações gerais sobre o estágio, além de legislação vigente e modelos de documentos (com exceção dos modelos disponíveis acima).
+- [PROGRAD - Estágio](https://www.ufpe.br/prograd/estagio) - informações gerais sobre o estágio, além de legislação vigente e modelos de documentos (com exceção dos modelos disponíveis acima).
 - [Calendário Acadêmico](https://www.ufpe.br/prograd/calendario-academico)
 - [Assinador de documentos do gov.br](https://assinador.iti.br/)
 
@@ -46,10 +45,10 @@ Para um estágio não obrigatório, você precisa ter aprovação na disciplina 
 Para um estágio obrigatório, é necessário ter aprovação na disciplina Processos Industriais 4 e ter integralizado uma carga horária total de 2940 horas.
 
 ### 3. A empresa ou o Agente de Integração precisa estar conveniado com a UFPE?
-Sim, a empresa ou o Agente de Integração deve estar conveniado com a UFPE. Você pode encontrar orientações sobre como firmar o convênio no [site da PROGRAD](https://www.ufpe.br/prograd/formacao-para-o-trabalho).
+Sim, a empresa ou o Agente de Integração deve estar conveniado com a UFPE. Você pode encontrar orientações sobre como firmar o convênio no [site da PROGRAD](https://www.ufpe.br/prograd/estagio).
 
 ### 4. Quais são os documentos necessários para autorização do estágio?
-- Termo de Compromisso de Estágio modelo UFPE (disponível no [site da PROGRAD](https://www.ufpe.br/prograd/formacao-para-o-trabalho)) ou do Agente de Integração.
+- Termo de Compromisso de Estágio modelo UFPE (disponível no [site da PROGRAD](https://www.ufpe.br/prograd/estagio)) ou do Agente de Integração.
 - Plano de atividades no modelo do DEP (**disponível [neste repositório](#modelos-de-documentos)**).
 - Comprovação de formação do supervisor (cópia do diploma ou certificado) ou ofício da empresa com informações sobre o supervisor de estágio (ver [item 8](#8-quem-são-o-supervisor-e-o-orientador-do-estágio)).
 
